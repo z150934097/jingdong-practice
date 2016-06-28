@@ -1,0 +1,6 @@
+ body,p,h1,h2,h4,h5,h6,ul,ol,dl,dt,dd,input,textarea,select,option,form,li,ul{
+   margin:0;font-family:"微软雅黑","宋体";
+   padding:0;list-style:none;
+   }
+img{border:0;}
+a{text-decoration:none;}
